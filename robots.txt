@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cue-bu.github.io/epsg-toreru/sitemap.xml
